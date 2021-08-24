@@ -1,0 +1,2 @@
+.Person{display:flex;justify-content:space-evenly;flex-direction:column;width:200px;height:120px;padding:10px;border:1px solid #7e7e7e;border-radius:8px}.Person__age{color:#5b5bcc;font-weight:700}body{justify-content:space-evenly;align-items:center;height:100vh}.App,body{display:flex}.App{grid-gap:50px;gap:50px}body,h2,p{margin:0}
+/*# sourceMappingURL=main.d88dd059.chunk.css.map */
